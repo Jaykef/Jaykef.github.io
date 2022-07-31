@@ -1,8 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome, I'm Jaward (Jaykef). It's all down here👇🏽👇🏽 
 
-You can use the [editor on GitHub](https://github.com/Jaykef/Jaykef.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![About Me](https://github.com/Jaykef/Jaward-Sesay-Recent-Projects/blob/main/15.png)
+
+![Project 2](https://github.com/Jaykef/Jaward-Sesay-Recent-Projects/blob/main/16.png)
+
+![Project 3](https://github.com/Jaykef/Jaward-Sesay-Recent-Projects/blob/main/17.png)
+
+![Project 4](https://github.com/Jaykef/Jaward-Sesay-Recent-Projects/blob/main/18.png)
+
+![Project 5](https://github.com/Jaykef/Jaward-Sesay-Recent-Projects/blob/main/19.png)
+
+![Project 6](https://github.com/Jaykef/Jaward-Sesay-Recent-Projects/blob/main/20.png)
+
+![Project 7](https://github.com/Jaykef/Jaward-Sesay-Recent-Projects/blob/main/21.png)
+
+![Project 8](https://github.com/Jaykef/Jaward-Sesay-Recent-Projects/blob/main/22.png)
 
 ### Markdown
 
