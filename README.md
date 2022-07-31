@@ -1,7 +1,5 @@
 ## Welcome, I'm Jaward (Jaykef). It's all down here👇🏽👇🏽 
 
-```markdown
-
 ![About Me](https://github.com/Jaykef/Jaykef.github.io/blob/main/15.png)
 
 ![Project 2](https://github.com/Jaykef/Jaykef.github.io/blob/main/16.png)
@@ -17,4 +15,4 @@
 ![Project 7](https://github.com/Jaykef/Jaykef.github.io/blob/main/21.png)
 
 ![Project 8](https://github.com/Jaykef/Jaykef.github.io/blob/main/22.png)
-```
+
