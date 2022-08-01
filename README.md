@@ -1,5 +1,6 @@
 ## Welcome, I'm Jaward (Jaykef). It's all down here👇🏽👇🏽 
 
+<img src="15.png">
 ![About Me](https://github.com/Jaykef/Jaykef.github.io/blob/main/15.png)
 
 ![Project 2](https://github.com/Jaykef/Jaykef.github.io/blob/main/16.png)
